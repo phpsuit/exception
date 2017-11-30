@@ -1,0 +1,20 @@
+{
+  "name": "phpsuit/exception",
+  "description": "Base exception of the PHPSuit framework",
+  "license": "MIT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Oleg Bronzov",
+      "email": "oleg.bronzov@symmetrics.de"
+    }
+  ],
+  "require": {
+    "php": "7.1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "PS\\": "src/"
+    }
+  }
+}
