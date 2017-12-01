@@ -18,4 +18,4 @@ namespace PS;
  * @copyright 2017 PHPSuit
  * @license   https://opensource.org/licenses/MIT
  */
-class PHPSuitException extends BaseException {}
+class PHPSuitException extends \Exception {}
