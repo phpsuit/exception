@@ -2,7 +2,7 @@
   "name": "phpsuit/exception",
   "description": "Base exception of the PHPSuit framework",
   "license": "MIT",
-  "version": "1.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Oleg Bronzov",
